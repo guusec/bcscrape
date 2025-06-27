@@ -1,2 +1,4 @@
 # bcscrape
-just learning docker stuff
+```bash
+alias bcscrape='docker run --rm -v "$(pwd)":/downloads bcscrape'
+```
